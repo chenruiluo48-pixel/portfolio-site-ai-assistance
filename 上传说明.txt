@@ -1,0 +1,16 @@
+GitHub Pages 上传说明
+
+本包已包含完整网页、1080p背景视频、个人照片、三张项目图、三张能力图、各种屏幕尺寸的图片、简历及许可文件。
+全部发布文件已放在同一级，不需要再创建media子文件夹。
+
+1. 解压GitHub-Pages-upload.zip，打开解压出来的文件夹。
+2. 全选文件夹里的所有文件（包括MP4、WebP、JPG、JS、CSS、HTML、DOCX和.nojekyll）。
+3. 打开你的GitHub仓库，选择Add file → Upload files。
+4. 把全部文件拖入上传区域，确认列表中包含hero-video.mp4及全部图片。
+5. 提交更新，并覆盖仓库中的同名文件，尤其是index.html和portfolio.config.js。
+6. 仓库根目录应直接看到index.html和hero-video.mp4，两个文件位于同一级。
+7. 保留Settings → Pages中的Deploy from a branch，选择发布分支及/(root)。
+8. 等GitHub Pages发布完成后，使用Ctrl+F5刷新网页。
+
+本包的配置已经改为同级资源路径。请将本包作为一套上传，避免与旧版配置混用。
+不要直接把ZIP文件本身上传当作网页。先解压，再上传里面的全部文件。

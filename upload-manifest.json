@@ -1,0 +1,167 @@
+[
+  {
+    "bytes": 0,
+    "file": ".nojekyll",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "bytes": 1150,
+    "file": "上传说明.txt",
+    "sha256": "a90a10c9b4e9fe0d4748eeed747e40a1c6cefe7a01616ebf3120a12ee057f2d0"
+  },
+  {
+    "bytes": 35294,
+    "file": "capability-embedded-640.webp",
+    "sha256": "28c67a191db21ac2bd3b6548cb1f64bd8f113923a11f4a7abdb66802c0f24673"
+  },
+  {
+    "bytes": 64334,
+    "file": "capability-embedded-960.webp",
+    "sha256": "b4c3981f408b68cf9c2d9e659fb8ef8d997045d264d8a3c3f1df3eade3f60575"
+  },
+  {
+    "bytes": 148704,
+    "file": "capability-embedded.webp",
+    "sha256": "49dee5000b57329ce1e3373b62b0fe6402704a140e411f376daed76b5c3e009f"
+  },
+  {
+    "bytes": 51810,
+    "file": "capability-modelling-640.webp",
+    "sha256": "01ae7b0238659e8c40a92cbb2f0114e68bff30c34cfd12f0c92df5d7f3644b49"
+  },
+  {
+    "bytes": 99264,
+    "file": "capability-modelling-960.webp",
+    "sha256": "0c0e5e5df76ddb424577ef0b609d0e7c520278ff7298cc75d84cf9a0401976ce"
+  },
+  {
+    "bytes": 249616,
+    "file": "capability-modelling.webp",
+    "sha256": "d835c905dd64d2d87c8117ca9ed29c0eefc3b7baa1670bd56fa9b5a850605cab"
+  },
+  {
+    "bytes": 49004,
+    "file": "capability-power-640.webp",
+    "sha256": "4f06380882177c86a9a787811ceda7a908f3a87601c89e843314d0dcc0975920"
+  },
+  {
+    "bytes": 99252,
+    "file": "capability-power-960.webp",
+    "sha256": "29a1214127c8418cf636c93781dc28e2c90c758bb6c6254c7964406d1e4de642"
+  },
+  {
+    "bytes": 273812,
+    "file": "capability-power.webp",
+    "sha256": "45ad1dbd250f26e9f63e46bccdc59c0453bc5221825a1425ec96cf9ffde971c8"
+  },
+  {
+    "bytes": 24693,
+    "file": "Chenrui-Luo-CV.docx",
+    "sha256": "58fcb27e41d56f70a258910ad715dda4d5fcc1c1ae8d392d3ff0f33d6dd236c6"
+  },
+  {
+    "bytes": 195,
+    "file": "favicon.svg",
+    "sha256": "fecbf200a16f76d1345d8ad306c21a061b9dc3e941265fb80c01cdf32461cf50"
+  },
+  {
+    "bytes": 186498,
+    "file": "hero-video-poster.webp",
+    "sha256": "21b4618a920619f6732c770ed405799af9e2e983fd84ef94c487b8ceb02f8882"
+  },
+  {
+    "bytes": 3536873,
+    "file": "hero-video.mp4",
+    "sha256": "081a0766ad29d4d7fea452ceec3b7ee928df229e10b5317635b1a2ed570b7c0a"
+  },
+  {
+    "bytes": 1336,
+    "file": "index.html",
+    "sha256": "ab932359035ba23af14a6244998cc8ea71f81b6b659eeadd161e5f55cb935ec1"
+  },
+  {
+    "bytes": 7627,
+    "file": "portfolio.config.js",
+    "sha256": "5b2fbe328ab39043ea9c5ced3933a8636ea40f4caed2ba1601248b087708a9a2"
+  },
+  {
+    "bytes": 234110,
+    "file": "portrait-1024.webp",
+    "sha256": "90d9a771eaf3defdf6c41817bbe5274698106843ce03ffc0ae2859b90357a601"
+  },
+  {
+    "bytes": 105934,
+    "file": "portrait-640.webp",
+    "sha256": "7e06f034b63ea34bd593177346d787990215199c1331ed1ac44bf184787d1bd9"
+  },
+  {
+    "bytes": 276748,
+    "file": "portrait.jpg",
+    "sha256": "a3e0184969377efacbde2218fbe9c739a54f10193a116b7980f200ef8c03286f"
+  },
+  {
+    "bytes": 45238,
+    "file": "project-converter-bright-640.webp",
+    "sha256": "503c7563e3489d3acdab6e3e17ba51c6bc0478951e4534e6acb0bffaa6ed2131"
+  },
+  {
+    "bytes": 81584,
+    "file": "project-converter-bright-960.webp",
+    "sha256": "2b611c2dab220c6c903d778f4078553b5066d045dd959cf065c724ecc2341ebd"
+  },
+  {
+    "bytes": 158790,
+    "file": "project-converter-bright.webp",
+    "sha256": "b1668219dfed424ee1ec8c7252277628b60b7d2899c29eb6f743ccf310522c6d"
+  },
+  {
+    "bytes": 51692,
+    "file": "project-radar-bright-640.webp",
+    "sha256": "94a0c7f53242d8e8a62c771e8a3213e172aad768795781c622d4f88df9e25a48"
+  },
+  {
+    "bytes": 94706,
+    "file": "project-radar-bright-960.webp",
+    "sha256": "5c660f6dc6d1703affa7b100ca9455aecb467db4426fd59a6c8f9ef5a85dac7e"
+  },
+  {
+    "bytes": 182196,
+    "file": "project-radar-bright.webp",
+    "sha256": "2edfd3979e1260d5158bc35ab8d4c7bf373d90ea4c88d52bdfd54f08b9ad1f5a"
+  },
+  {
+    "bytes": 51342,
+    "file": "project-vehicle-bright-640.webp",
+    "sha256": "09b8d22a0efbea08f497e9986041e5b8d1ad6706ebaadf03e1cf77540ddd095a"
+  },
+  {
+    "bytes": 92696,
+    "file": "project-vehicle-bright-960.webp",
+    "sha256": "0854ab265f340bca5b17414074d28af4f6b4eaeaeaa3157c2a95bbbcfb9f72db"
+  },
+  {
+    "bytes": 185920,
+    "file": "project-vehicle-bright.webp",
+    "sha256": "efaf3e01b767ce6121214b9381aaa94430009e746cb7f2b7b827a4e0847cd17b"
+  },
+  {
+    "bytes": 1477,
+    "file": "README.txt",
+    "sha256": "ff4b05a27bccac976226a30195fcec10bbbfd977d94414addcdfa50f1d3d4867"
+  },
+  {
+    "bytes": 249230,
+    "file": "script.js",
+    "sha256": "13da66b63b78d4609c08e4f6391a6dc27d2263aa56e1af1a1602ae47f3968d71"
+  },
+  {
+    "bytes": 38708,
+    "file": "styles.css",
+    "sha256": "841969e54fc114cafdf88b93a142a4d72703c371be0eccd8c7bc1be468c73fa1"
+  },
+  {
+    "bytes": 3807,
+    "file": "THIRD-PARTY-LICENSES.txt",
+    "sha256": "ff7f3fd976498b24be32945d1bc9eb80aa9fe32a271b0ec91c716627c4a5692c"
+  }
+]
