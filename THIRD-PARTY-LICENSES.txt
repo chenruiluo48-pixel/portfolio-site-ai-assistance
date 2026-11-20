@@ -1,0 +1,71 @@
+React and React DOM
+Copyright (c) Meta Platforms, Inc. and affiliates.
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Hero background: Video.mp4 supplied by the website owner.
+The original is archived with the source at assets/hero-original.mp4.
+The website plays a muted 1920x1080 H.264 version at media/hero-video.mp4,
+with a WebP poster and the original 30fps frame rate and duration.
+
+Portrait: original JPEG supplied by the website owner, copied unchanged.
+Project images: AI-generated using built-in imagegen at the owner's request.
+They are illustrative technical renders, not photographs of the actual builds
+or verified circuit schematics. Original PNGs and prompts are archived with
+the development source in assets/generated-projects/, IMAGE-PROMPTS.md and
+IMAGE-PROMPTS-BRIGHT.md. The current bright illustrations were generated using
+the owner's supplied white-and-blue workflow image as a style reference.
+
+Capability illustrations: three new images generated using built-in imagegen at
+the owner's request, in the established bright white-and-blue style. They are
+conceptual images for power electronics, embedded control, and modelling/testing,
+not photographs of actual work, verified schematics, or measurement evidence.
+Originals: assets/generated-capabilities/. Final prompts: IMAGE-PROMPTS-CAPABILITIES.md.
+
+BorderGlow is adapted from the React Bits component source supplied by the owner.
+Source: https://github.com/DavidHDev/react-bits
+License: https://github.com/DavidHDev/react-bits/blob/main/LICENSE.md
+
+MIT + Commons Clause License Condition v1.0
+Copyright (c) 2026 David Haz
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, and distribute the Software as part of an
+application, website, or product, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+Commons Clause Restriction
+You may use this Software, including for any commercial purpose, so long as you
+do not sell, sublicense, or redistribute the components themselves-whether
+alone, in a bundle, or as a ported version.
+
+No Warranty
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
